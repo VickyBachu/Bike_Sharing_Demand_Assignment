@@ -1,7 +1,7 @@
 # Project Name
 - Bikes Sharing Demand
 
-# Outline a brief description of your project
+# A brief description of project
  A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system. # So, our project is to find the prediction of demand for these shared bikes using a multiple linear regression model.#
 
 ## General Information
